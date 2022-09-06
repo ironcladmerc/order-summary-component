@@ -1,36 +1,51 @@
-# Next.js + Tailwind CSS Example
+# Frontend Mentor - Order summary card solution
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Notes
+## Table of contents
 
-This is a modified version of the tailwindcss example for Next.js. The following changes have been made to it:
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+-   [Author](#author)
 
--   added i18n object to next.config.js to generate an html tag with language like this:
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-```html
-<html lang="en"></html>
-```
+## Overview
 
--   added example changes to styles/globals.css
--   added example changes to tailwind.config.js
--   added example components
--   remove api/hello.ts
+### The challenge
 
-## Deploy your own
+Users should be able to:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/ironcladmerc/next-frontendmentor-tailwind-starter&project-name=next-frontendmentor-tailwind-starter&repository-name=next-frontendmentor-tailwind-starter)
+-   See hover states for interactive elements
 
-## How to use
+### Screenshot
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+![](./screenshot.png)
 
-```bash
-npx create-next-app project-name -e https://github.com/ironcladmerc/next-frontendmentor-tailwind-starter
-```
+### Links
 
-```bash
-yarn create next-app project-name -e https://github.com/ironcladmerc/next-frontendmentor-tailwind-starter
-```
+-   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## My process
+
+### Built with
+
+-   Flexbox
+-   Mobile-first workflow
+-   [Next.js](https://nextjs.org/) - React framework
+-   [Tailwind](https://tailwindcss.com) - Tailwind CSS Framework
+
+### What I learned
+
+Learned how drop shadows work in Tailwind. Also learned for hover color changes, you can leave the bg color the same and just reduce the opacity.
+
+## Author
+
+-   Frontend Mentor - [@ironcladmerc](https://www.frontendmentor.io/profile/ironcladmerc)
+-   Github - [@ironcladmerc](https://www.github.com/ironcladmerc)

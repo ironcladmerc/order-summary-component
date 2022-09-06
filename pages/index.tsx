@@ -1,19 +1,15 @@
 import type { NextPage } from "next"
 import Head from "next/head"
-import Component from "../components/Component"
-import Footer from "../components/Footer"
-import Header from "../components/Header"
+import OrderSummary from "../components/OrderSummary"
 
 const Home: NextPage = () => {
     return (
-        <div className="flex min-h-screen flex-col items-center justify-center py-2">
+        <div className="flex min-h-screen flex-col items-center justify-center py-2 bg-paleBlue">
             <Head>
-                <title>Next App with Tailwind CSS</title>
-                <link rel="icon" href="/favicon.ico" />
+                <title>Order Summary Component</title>
+                <link rel="icon" href="/favicon-32x32.png" />
             </Head>
-            <Header />
-            <Component />
-            <Footer />
+            <OrderSummary />
         </div>
     )
 }
