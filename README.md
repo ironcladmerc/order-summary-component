@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-with-nextjs-and-tailwind-rFuFP-d9if](https://www.frontendmentor.io/solutions/order-summary-component-with-nextjs-and-tailwind-rFuFP-d9if)
+-   Live Site URL: [Vercel](https://order-summary-component-ecru.vercel.app/)
 
 ## My process
 
